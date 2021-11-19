@@ -164,4 +164,9 @@ body {
 
     }
 
+    .button {
+        bottom: 44%;
+        left: calc(100% - 40px) 
+    }
+
 }
